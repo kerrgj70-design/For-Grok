@@ -1,0 +1,47 @@
+posteam                ATL
+script                 NEG
+total_plays            103
+dropbacks               55
+sacks                    3
+DB%               0.533981
+sacks_per_game    0.428571
+Name: 0, dtype: object
+posteam                ATL
+script                NEUT
+total_plays            254
+dropbacks              110
+sacks                    8
+DB%               0.433071
+sacks_per_game    1.142857
+Name: 1, dtype: object
+posteam                ATL
+script                 POS
+total_plays            146
+dropbacks               46
+sacks                    2
+DB%               0.315068
+sacks_per_game    0.285714
+Name: 2, dtype: object
+posteam                MIA
+script                 NEG
+total_plays            202
+dropbacks              106
+sacks                    8
+DB%               0.524752
+sacks_per_game    1.142857
+Name: 3, dtype: object
+posteam                MIA
+script                NEUT
+total_plays            254
+dropbacks              116
+sacks                    8
+DB%               0.456693
+sacks_per_game    1.142857
+Name: 4, dtype: object
+posteam                MIA
+script                 POS
+total_plays             54
+dropbacks               18
+sacks                    1
+DB%               0.333333
+sacks_per_game    0.142857

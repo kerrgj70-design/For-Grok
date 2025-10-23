@@ -1,0 +1,67 @@
+Team Details,,,,,,Splits,Passing,,,,,,,,,,,,,,,Advanced,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rank,Name,G,Season,Location,Team Name,SCHEME,DB,ATT,CMP,CMP %,YDS,YDS/G,YPA,TD,INT,1D,RATE,SACK,SACK %,SK YDS,ANY/A,CPOE,aDOT,AY,Deep Throw %,Deep Throw,YAC %,ADJ CMP %,1Read %,ACC %,CATCH %,OFF %,HERO %,TWT %,EZATT,DROP %,DROP YDS,TTT,TTP,TTSK,TTSC,QB SK,AVOID SK,QBP,PRESS %,PrROE,CHK %,RPO %,TA,BAT,SPK
+22,Miami Dolphins,7,2025,Miami,Dolphins,Cover 2,41,35,28,80,305,43.6,8.71,0,0,14,103,1,2.4,1,8.44,1.9,4.6,155,8.6,3,63.3,82.4,60,62.9,80,14.3,5.7,,0,,0,2.47,2.51,3.1,5.5,1,3,15,36.6,8.66,14.3,2.4,1,0,0
+36,Miami Dolphins,7,2025,Miami,Dolphins,Cover 1,32,28,20,71.4,273,39,9.75,1,0,13,114.1,3,9.4,17,8.9,2.9,5.5,147,3.6,1,65.2,80.8,71.4,64.3,82.1,14.3,3.6,3.6,2,3.6,8,2.57,2.55,4.1,4.6,1,4,12,37.5,7.42,3.6,6.3,1,0,0
+37,Atlanta Falcons,6,2025,Atlanta,Falcons,Cover 3,62,48,27,56.3,272,45.3,5.67,2,1,17,77.8,8,12.9,47,3.93,-1,8.6,395,10.4,5,39,71.1,64.6,52.1,68.8,22.9,4.2,4.2,3,10.4,39,2.71,2.51,3.1,5.9,0,6,36,58.1,29.52,4.2,,2,0,0
+78,Miami Dolphins,7,2025,Miami,Dolphins,Cover 3,31,25,19,76,179,25.6,7.16,0,0,5,95.3,2,6.5,14,6.11,14.1,6.5,150,12,3,50.8,91.3,52,64,84,8,4,,0,8,28,2.74,3.1,3.7,5,0,2,11,35.5,5.37,12,3.2,2,0,0
+83,Atlanta Falcons,6,2025,Atlanta,Falcons,Cover 1,30,25,13,52,161,26.8,6.44,0,1,10,55.6,3,10,20,3.43,-4.5,9.7,223,8,2,29.2,65.2,76,48,72,20,,12,0,8,9,2.53,2.31,3,4.9,1,1,14,46.7,18.59,,,2,0,0
+101,Atlanta Falcons,6,2025,Atlanta,Falcons,Cover 4,25,21,14,66.7,111,18.5,5.29,0,0,6,79.7,2,8,6,4.57,-4.6,9.6,201,19,4,50.5,66.7,90.5,47.6,71.4,28.6,4.8,4.8,0,,0,2.66,2.46,3.5,5.2,0,0,5,20,-10.24,4.8,,0,0,0
+109,Atlanta Falcons,6,2025,Atlanta,Falcons,Cover 2,5,5,4,80,103,17.2,20.6,1,0,2,158.3,0,,0,24.6,42.6,15.8,63,40,2,38.8,100,20,60,80,,40,,0,,0,3.58,2.5,,,0,1,1,20,-31.84,,,1,0,0
+112,Miami Dolphins,7,2025,Miami,Dolphins,Cover 4,13,11,9,81.8,101,14.4,9.18,1,0,4,135.2,2,15.4,14,8.23,12.3,5.2,57,18.2,2,67.3,90.9,81.8,54.5,90.9,9.1,,,0,9.1,4,2.27,2.6,3.1,,1,1,4,30.8,5.99,9.1,15.4,0,0,0
+151,Miami Dolphins,6,2025,Miami,Dolphins,Cover 6,7,6,5,83.3,53,8.8,8.83,0,0,4,103.5,1,14.3,10,6.14,15.2,2.7,16,,0,81.1,100,83.3,83.3,100,,,,0,16.7,6,2.23,2.23,1.9,,0,0,3,42.9,18.34,16.7,,0,0,0
+172,Atlanta Falcons,6,2025,Atlanta,Falcons,Cover 6,11,8,5,62.5,33,5.5,4.13,0,0,1,71.4,0,,0,4.13,-5,3.9,31,,0,45.5,75,62.5,37.5,75,25,,,0,12.5,7,2.44,3.2,,4.9,0,0,4,36.4,13,25,,0,0,0
+183,Miami Dolphins,4,2025,Miami,Dolphins,Cover 0,8,6,4,66.7,25,6.3,4.17,1,0,3,114.6,1,12.5,3,6,10.3,7.8,47,33.3,2,92,83.3,66.7,50,100,,16.7,,1,16.7,22,3.02,2.08,2.7,4.5,1,1,4,50,18.41,,12.5,0,0,0
+198,Miami Dolphins,6,2025,Miami,Dolphins,Red Zone,6,3,3,100,17,2.8,5.67,3,0,3,129.9,0,,0,25.67,24.9,6.7,20,,0,11.8,100,66.7,100,100,,,,2,,0,3.17,2.35,,5.1,0,0,4,66.7,44.31,,,0,0,0
+207,Atlanta Falcons,5,2025,Atlanta,Falcons,Red Zone,4,3,2,66.7,14,2.8,4.67,2,0,2,116.7,1,25,7,11.75,-8.3,7,21,,0,71.4,66.7,33.3,33.3,66.7,33.3,,,2,,0,3.47,2.33,2.7,,0,0,3,75,37.59,,,0,0,0
+239,Miami Dolphins,3,2025,Miami,Dolphins,Bracket,4,4,1,25,6,2,1.5,0,0,0,39.6,0,,0,1.5,-51.7,5.3,21,,0,216.7,25,75,25,25,50,,,1,,0,2.48,2.1,,,0,0,1,25,-7.77,25,,0,0,0
+261,Miami Dolphins,3,2025,Miami,Dolphins,Cover 2 Man,1,1,1,100,1,0.3,1,0,0,0,79.2,0,,0,1,5.8,-4,-4,,0,500,100,100,100,100,,,,0,,0,2.3,,,,0,0,0,,-29.76,,,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rank,"Rank, Most to Least",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Name,Team,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+G,Games Played,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SCHEME,Coverage Scheme,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DB,Dropbacks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ATT,Passing Attempts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CMP,Passing Completions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CMP %,Passing Completion Percentage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+YDS,Passing Yards,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+YDS/G,Passing Yards Per Game,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+YPA,Passing Yards per Attempt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TD,Passing Touchdowns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+INT,Interceptions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1D,Passing first downs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RATE,QB Passer Rating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SACK,Number of times sacked,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SACK %,Percentage of dropbacks that result in a sack,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SK YDS,Yards Lost due to Sacks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ANY/A,Adjusted Net Yards per Attempt - ((Pass Yards + 20*(Pass TDs)-45*(INTs)-Sack Yards))/(Pass Atts + Sacks),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CPOE,Completion Percentage Over Expectation based on Depth of Throw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+aDOT,Average Depth of Target,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AY,Passing - Yards - Air - Total,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Deep Throw %,Deep throw attempt percentage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Deep Throw,Pass Attempts that travel 20+ yards in the air,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+YAC %,Percentage of Passing Yards that come after the catch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ADJ CMP %,"Completion Percentage Adjusted for drops, spikes, throw aways, hit as thrown, and batted passes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1Read %,Percentage of Throws to the QB's 1st Read or Designed Throws,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ACC %,"Highly Accurate Throw Percentage where the QB hits the receiver in stride, throws the ball away from coverage, or hits the receiver in the numbers when the receiver is standing still",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CATCH %,Catchable Throw Percentage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OFF %,Off Target Throw Percentage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERO %,Percent of attempts QB makes an extraordinary throw that maximizes the result of the play,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TWT %,Turnover Worthy Throw Rate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EZATT,Passing attempts into the endzone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DROP %,Percentage of Throws that are dropped,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DROP YDS,Dropped Air Yards,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TTT,Average Time to Throw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TTP,Average Time to Pressure,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TTSK,Average Time to Sack,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TTSC,Average Time to Scramble,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+QB SK,Sacks that are the fault of the QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AVOID SK,Avoided Sacks by the QB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+QBP,Dropbacks Under Pressure,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PRESS %,Percentage of Dropbacks Under Pressure,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PrROE,Pressure Rate Over Expectation - Pressure Rate vs. Expected Pressure Rate based on QB Time to Throw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CHK %,Checkdown Throw Percentage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RPO %,Percentage of Dropbacks that had a Run-Pass-Option,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TA,Attempts Thrown Away,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BAT,Batted Passes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SPK,QB Spikes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

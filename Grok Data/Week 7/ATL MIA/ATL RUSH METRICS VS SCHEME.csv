@@ -1,0 +1,58 @@
+Player Details,,,,,,Splits,Rushing,,,,,,,Advanced,,,,,,,,,,,,,Zone Concept,,,,,,Man/Gap Concept,,,,,,FPTS,,,
+Rank,Name,Team,POS,G,Season,CONCEPT,ATT,YDS,RuYDS/G,YPC,TD,FUM,1D,EXP RUN %,EXP YDS,EXP YDS %,i5 %,TD RATE,Success %,STUFF %,MTF,MTF/ATT,YACO,YACO/ATT,YACO %,YBCO/ATT,ATT,ATT %,YDS,TD,YPC,Success %,ATT,ATT %,YDS,TD,YPC,Success %,FP/G,FP,XFP,XFP/G
+1,Bijan Robinson,ATL,RB,6,2025,Outside Zone,56,377,62.8,6.73,2,0,12,8.9,162,43,0,3.6,57.1,39.3,16,0.29,247,4.41,65.5,2.32,56,100,377,2,6.73,57.1,0,,0,0,,,8.3,49.7,27.1,4.5
+2,Tyler Allgeier,ATL,RB,6,2025,Outside Zone,31,113,18.8,3.65,1,0,9,9.7,57,50.4,100,3.2,45.2,54.8,3,0.1,55,1.77,48.7,1.87,31,100,113,1,3.65,45.2,0,,0,0,,,2.9,17.3,17.3,2.9
+3,Bijan Robinson,ATL,RB,6,2025,Man/Duo,15,47,7.8,3.13,0,1,6,,0,,0,,66.7,40,5,0.33,34,2.27,72.3,0.87,0,,0,0,,,15,100,47,0,3.13,66.7,0.8,4.7,7.8,1.3
+4,Bijan Robinson,ATL,RB,6,2025,Inside Zone,15,55,9.2,3.67,0,0,2,6.7,18,32.7,100,,40,46.7,4,0.27,32,2.13,58.2,1.53,15,100,55,0,3.67,40,0,,0,0,,,0.9,5.5,8.3,1.4
+5,Tyler Allgeier,ATL,RB,6,2025,Man/Duo,13,50,8.3,3.85,2,0,4,7.7,15,30,100,15.4,53.8,46.2,1,0.08,24,1.85,48,2,0,,0,0,,,13,100,50,2,3.85,53.8,2.8,17,9.4,1.6
+6,Tyler Allgeier,ATL,RB,6,2025,Inside Zone,6,16,2.7,2.67,0,0,1,,0,,0,,50,50,2,0.33,7,1.17,43.8,1.5,6,100,16,0,2.67,50,0,,0,0,,,0.3,1.6,2.5,0.4
+7,Bijan Robinson,ATL,RB,4,2025,Pull Lead,6,15,3.8,2.5,0,0,0,,0,,100,,33.3,66.7,1,0.17,11,1.83,73.3,0.67,0,,0,0,,,6,100,15,0,2.5,33.3,0.4,1.5,5.4,1.3
+8,Michael Penix,ATL,QB,4,2025,Kneel,6,-6,-1.5,-1,0,0,0,,0,,0,,,,0,,0,,,-1,0,,0,0,,,0,,0,0,,,-0.2,-0.6,0,0
+9,Tyler Allgeier,ATL,RB,3,2025,Trap,4,8,2.7,2,0,0,0,,0,,0,,25,75,0,,6,1.5,75,0.5,0,,0,0,,,4,100,8,0,2,25,0.3,0.8,1.9,0.6
+10,Bijan Robinson,ATL,RB,3,2025,No Design,3,24,8,8,0,0,0,,0,,0,,100,,1,0.33,6,2,25,6,0,,0,0,,,0,,0,0,,,0.8,2.4,1.6,0.5
+11,Bijan Robinson,ATL,RB,2,2025,Counter,2,6,3,3,0,0,0,,0,,0,,,50,0,,2,1,33.3,2,0,,0,0,,,2,100,6,0,3,,0.3,0.6,0.9,0.4
+12,Tyler Allgeier,ATL,RB,2,2025,Fullback Run,2,7,3.5,3.5,0,0,2,,0,,0,,100,,0,,1,0.5,14.3,3,0,,0,0,,,0,,0,0,,,0.4,0.7,0.5,0.2
+13,Tyler Allgeier,ATL,RB,4,2025,Pull Lead,1,9,2.3,9,0,0,0,,0,,0,,100,,0,,7,7,77.8,2,0,,0,0,,,1,100,9,0,9,100,0.2,0.9,0.5,0.1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rank,"Rank, Most to Least",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Name,Full name of the player or team,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Team,Team(s) played for,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+POS,Player Position,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+G,Games Played,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CONCEPT,Primary Rush Concept,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ATT,Rushing Attempts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+YDS,Rushing Yards,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RuYDS/G,Rushing Yards per Game,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+YPC,Rushing Yards per Carry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TD,Rushing Touchdowns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FUM,Rushing Fumbles,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1D,Rushing 1st Downs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EXP RUN %,Percentage of Runs to go for 15+ Yards,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EXP YDS,Rushing Yards on Runs that go for 15+ Yards,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EXP YDS %,Percentage of Yards to come on Explosive Runs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+i5 %,Percentage of Team's Inside the 5 Carries,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TD RATE,Percentage of Carries where a TD is Scored,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Success %,Rushing success rate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+STUFF %,"Percentage of Carries that are ""Stuffed"". A ""stuff"" is any run that does not result in a first down or touchdown, less than 4 yards on first down, or less than 3 yards on any other down",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MTF,Missed Tackles Forced on Carries,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MTF/ATT,Missed Tackles Forced per Attempt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+YACO,Yards After Contact on Carries,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+YACO/ATT,Yards After Contact per Attempt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+YACO %,Percentage of Yards that come After Contact,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+YBCO/ATT,Yards Before Contact per Attempt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ATT,Zone Attempts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ATT %,Zone Attempts Percentage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+YDS,Zone Yards Total,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TD,Zone Touchdowns Total,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+YPC,Zone Yards per Carry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Success %,Zone Attempts Success Rate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ATT,Man/Gap Attempts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ATT %,Man/Gap Attempts Percentage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+YDS,Man/Gap Yards Total,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TD,Man/Gap Touchdowns Total,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+YPC,Man/Gap Yards per Carry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Success %,Man/Gap Attempts Success Rate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FP/G,Fantasy Points per Game,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FP,Fantasy Points,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+XFP,Expected Fantasy Points,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+XFP/G,Expected PPR Fantasy Points per Game,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
